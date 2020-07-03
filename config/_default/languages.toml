@@ -1,0 +1,14 @@
+[en-us]
+  languageName = "English (US)"
+  weight = 1
+
+[fr]
+  languageName = "Français"
+  title = "Tutoriel de Pony"
+  weight = 2
+
+[pt-br]
+  contentDir = "content-localized/pt-br"
+  languageName = "Português (Brasil)"
+  title = "Tutorial de Pony"
+  weight = 2

@@ -1,0 +1,65 @@
+
+[[toc]]
+  name = "Primeiros Passos"
+  weight = 10
+  identifier = "getting-started"
+
+# [[toc]]
+#   name = "Tipos"
+#   weight = 20
+#   identifier = "types"
+
+# [[toc]]
+#   name = "Expressões"
+#   weight = 30
+#   identifier = "expressions"
+
+# [[toc]]
+#   name = "Capabilidades de referência"
+#   weight = 40
+#   identifier = "reference-capabilities"
+
+# [[toc]]
+#   name = "Capabilidades de objeto"
+#   weight = 45
+#   identifier = "object-capabilities"
+
+# [[toc]]
+#   name = "Tipos genéricos"
+#   weight = 50
+#   identifier = "generics"
+
+# [[toc]]
+#   name = "Casamento de padrões"
+#   weight = 55
+#   identifier = "pattern-matching"
+
+# [[toc]]
+#   name = "Pacotes"
+#   weight = 60
+#   identifier = "packages"
+
+# [[toc]]
+#   name = "Testes"
+#   weight = 70
+#   identifier = "testing"
+
+# [[toc]]
+#   name = "FFI de C"
+#   weight = 80
+#   identifier = "c-ffi"
+
+# [[toc]]
+#   name = "Pegadinhas"
+#   weight = 90
+#   identifier = "gotchas"
+
+# [[toc]]
+#   name = "Próximos Passos"
+#   weight = 100
+#   identifier = "where-next"
+
+# [[toc]]
+#   name = "Apêndices"
+#   weight = 110
+#   identifier = "appendices"

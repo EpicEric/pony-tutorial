@@ -1,0 +1,50 @@
+[404]
+other = "Página não encontrada"
+
+[outdated-page-alert]
+other = "Esta tradução pode estar desatualizada."
+
+[toc-header]
+other = "O que há nesta página"
+
+[languages-header]
+other = "Idiomas"
+
+[whats-in-header]
+other = "Nesta seção:"
+
+[related-header]
+other = "Relacionadas"
+
+[see-also-header]
+other = "Veja também:"
+
+[search]
+other = "busca"
+
+[search-results]
+other = "RESULTADOS DA BUSCA"
+
+[facebook-link]
+other = "Link do Facebook"
+
+[twitter-link]
+other = "Link do Twitter"
+
+[instagram-link]
+other = "Link do Instagram"
+
+[youtube-link]
+other = "Link do Youtube"
+
+[linkedin-link]
+other = "Link do LinkedIn"
+
+[github-link]
+other = "Link do Github"
+
+[gitlab-link]
+other = "Link do Gitlab"
+
+[medium-link]
+other = "Link do Medium"

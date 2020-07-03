@@ -1,0 +1,65 @@
+
+[[toc]]
+  name = "Getting Started"
+  weight = 10
+  identifier = "getting-started"
+
+[[toc]]
+  name = "Types"
+  weight = 20
+  identifier = "types"
+
+[[toc]]
+  name = "Expressions"
+  weight = 30
+  identifier = "expressions"
+
+[[toc]]
+  name = "Reference Capabilities"
+  weight = 40
+  identifier = "reference-capabilities"
+
+[[toc]]
+  name = "Object Capabilities"
+  weight = 45
+  identifier = "object-capabilities"
+
+[[toc]]
+  name = "Generics"
+  weight = 50
+  identifier = "generics"
+
+[[toc]]
+  name = "Pattern Matching"
+  weight = 55
+  identifier = "pattern-matching"
+
+[[toc]]
+  name = "Packages"
+  weight = 60
+  identifier = "packages"
+
+[[toc]]
+  name = "Testing"
+  weight = 70
+  identifier = "testing"
+
+[[toc]]
+  name = "C FFI"
+  weight = 80
+  identifier = "c-ffi"
+
+[[toc]]
+  name = "Gotchas"
+  weight = 90
+  identifier = "gotchas"
+
+[[toc]]
+  name = "Where Next?"
+  weight = 100
+  identifier = "where-next"
+
+[[toc]]
+  name = "Appendices"
+  weight = 110
+  identifier = "appendices"

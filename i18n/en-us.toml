@@ -1,0 +1,67 @@
+# Content to show on 404 Page Not Found
+[404]
+other = "This is not the page you were looking for"
+
+# Warning banner text displayed on possibly outdated translations
+[outdated-page-alert]
+other = "This translation may be outdated."
+
+# Header describing the table of contents of the page
+[toc-header]
+other = "What's in this document"
+
+# Header for translations of this page
+[languages-header]
+other = "Languages"
+
+# Header describing pages that are in the section
+[whats-in-header]
+other = "In this section:"
+
+# Header for related content from the contextual menu
+[related-header]
+other = "Related"
+
+# Header for related content from the contextual menu in overview pages
+[see-also-header]
+other = "See also:"
+
+# Placeholder text for the search bar
+[search]
+other = "search"
+
+# Header for search results
+[search-results]
+other = "SEARCH RESULTS"
+
+# Title text for Facebook social link
+[facebook-link]
+other = "Facebook link"
+
+# Title text for Twitter social link
+[twitter-link]
+other = "Twitter link"
+
+# Title text for Instagram social link
+[instagram-link]
+other = "Instagram link"
+
+# Title text for Youtube social link
+[youtube-link]
+other = "Youtube link"
+
+# Title text for LinkedIn social link
+[linkedin-link]
+other = "LinkedIn link"
+
+# Title text for Github social link
+[github-link]
+other = "Github link"
+
+# Title text for Gitlab social link
+[gitlab-link]
+other = "Gitlab link"
+
+# Title text for Medium social link
+[medium-link]
+other = "Medium link"
