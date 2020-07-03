@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on Pony Tutorial</title>
+    <link>https://epiceric.github.io/pony-tutorial/object-capabilities.html</link>
+    <description>Recent content in Overview on Pony Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://epiceric.github.io/pony-tutorial/object-capabilities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Object Capabilities</title>
+      <link>https://epiceric.github.io/pony-tutorial/object-capabilities/object-capabilities.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epiceric.github.io/pony-tutorial/object-capabilities/object-capabilities.html</guid>
+      <description>Pony&#39;s capabilities-secure type system is based on the object-capability model. That sounds complicated, but really it&#39;s elegant and simple. The core idea is this:
+ A capability is an unforgeable token that (a) designates an object and (b) gives the program the authority to perform a specific set of actions on that object.
+ So what&#39;s that token? It&#39;s an address. A pointer. A reference. It&#39;s just&amp;hellip; an object.
+How is that unforgeable?</description>
+    </item>
+    
+    <item>
+      <title>Trust Boundary</title>
+      <link>https://epiceric.github.io/pony-tutorial/object-capabilities/trust-boundary.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epiceric.github.io/pony-tutorial/object-capabilities/trust-boundary.html</guid>
+      <description>We mentioned previously that the C FFI can be used to break pretty much every guarantee that Pony makes. This is because, once you&#39;ve called into C, you are executing arbitrary machine code that can stomp memory addresses, write to anything, and generally be pretty badly behaved.
+Trust boundaries When we talk about trust, we don&#39;t mean things you trust because you think they are perfect. Instead, we mean things you have to trust in order to get things done, even though you know they are imperfect.</description>
+    </item>
+    
+  </channel>
+</rss>

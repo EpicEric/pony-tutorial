@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on Pony Tutorial</title>
+    <link>https://epiceric.github.io/pony-tutorial/generics.html</link>
+    <description>Recent content in Overview on Pony Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://epiceric.github.io/pony-tutorial/generics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Constraints</title>
+      <link>https://epiceric.github.io/pony-tutorial/generics/generic-constraints.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epiceric.github.io/pony-tutorial/generics/generic-constraints.html</guid>
+      <description>Capability Constraints The type parameter constraint for a generic class or method can constrain to a particular capability as seen previously:
+class Foo[A: Any val] Without the constraint, the generic must work for all possible capabilities. Sometimes you don&#39;t want to be limited to a specific capability and you can&#39;t support all capabilities. The solution for this is generic constraint qualifiers. These represent classes of capabilities that are accepted in the generic.</description>
+    </item>
+    
+    <item>
+      <title>Generics and Reference Capabilities</title>
+      <link>https://epiceric.github.io/pony-tutorial/generics/generics-and-reference-capabilities.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epiceric.github.io/pony-tutorial/generics/generics-and-reference-capabilities.html</guid>
+      <description>In the examples presented previously we&#39;ve explicitly set the reference capability to val:
+class Foo[A: Any val] If the capability is left out of the type parameter then the generic class or function can accept any reference capability. This would look like:
+class Foo[A: Any] It can be made shorter because Any is the default constraint, leaving us with:
+class Foo[A] This is what the example shown before looks like but with any reference capability accepted:</description>
+    </item>
+    
+  </channel>
+</rss>

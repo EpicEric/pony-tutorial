@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumo on Tutorial de Pony</title>
+    <link>https://epiceric.github.io/pony-tutorial/pt-br/getting-started.html</link>
+    <description>Recent content in Resumo on Tutorial de Pony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://epiceric.github.io/pony-tutorial/pt-br/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Que Você Precisa</title>
+      <link>https://epiceric.github.io/pony-tutorial/pt-br/getting-started/what-you-need.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epiceric.github.io/pony-tutorial/pt-br/getting-started/what-you-need.html</guid>
+      <description>Pra começar, lorem ipsum dolor.
+O compilador de Pony Lorem ipsum dolor.
+Um editor de texto Lorem ipsum dolor.
+O compilador Lorem ipsum dolor.</description>
+    </item>
+    
+    <item>
+      <title>Olá Mundo: Como Funciona</title>
+      <link>https://epiceric.github.io/pony-tutorial/pt-br/getting-started/how-it-works.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epiceric.github.io/pony-tutorial/pt-br/getting-started/how-it-works.html</guid>
+      <description>Vamos olhar nosso helloworld:
+actor Main new create(env: Env) =&amp;gt; env.out.print(&amp;quot;Hello, world!&amp;quot;) Lorem ipsum dolor&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/error-messages.html</loc>
+    <lastmod>2019-09-09T21:02:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/actors.html</loc>
+    <lastmod>2019-09-05T11:13:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/aliasing.html</loc>
+    <lastmod>2019-04-22T21:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/arithmetic.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/arrow-types.html</loc>
+    <lastmod>2019-02-24T00:35:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/pattern-matching/as.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/c-ffi/c-abi.html</loc>
+    <lastmod>2019-09-09T20:57:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/c-ffi/callbacks.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/c-ffi/calling-c.html</loc>
+    <lastmod>2019-09-03T19:14:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/capability-subtyping.html</loc>
+    <lastmod>2019-04-09T15:54:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/categories.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://epiceric.github.io/pony-tutorial/fr/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://epiceric.github.io/pony-tutorial/pt-br/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://epiceric.github.io/pony-tutorial/categories.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/classes.html</loc>
+    <lastmod>2020-06-29T10:05:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/combining-capabilities.html</loc>
+    <lastmod>2019-04-09T15:54:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/compiler-args.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/generics/generic-constraints.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/consume-and-destructive-read.html</loc>
+    <lastmod>2019-09-04T20:18:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/control-structures.html</loc>
+    <lastmod>2020-05-16T01:37:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/gotchas/divide-by-zero.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/equality.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/errors.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/examples.html</loc>
+    <lastmod>2019-02-07T18:46:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/gotchas/side-effect-ordering-in-function-call-expressions.html</loc>
+    <lastmod>2019-09-09T21:02:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/gotchas/garbage-collection.html</loc>
+    <lastmod>2020-05-15T16:40:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/garbage-collection.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/generics/generics-and-reference-capabilities.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/getting-started/how-it-works.html</loc>
+    <lastmod>2020-07-05T22:25:49-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://epiceric.github.io/pony-tutorial/pt-br/getting-started/how-it-works.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://epiceric.github.io/pony-tutorial/getting-started/how-it-works.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/getting-started/hello-world.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/keywords.html</loc>
+    <lastmod>2020-04-24T20:48:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/lexicon.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/c-ffi/linking-c.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/literals.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/pattern-matching/match.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/memory-allocation.html</loc>
+    <lastmod>2019-09-09T20:57:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/methods.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/object-capabilities/object-capabilities.html</loc>
+    <lastmod>2019-06-27T16:27:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/object-literals.html</loc>
+    <lastmod>2020-06-29T09:06:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/ops.html</loc>
+    <lastmod>2019-12-03T19:42:02-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/c-ffi.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/generics.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/getting-started.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://epiceric.github.io/pony-tutorial/pt-br/getting-started.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://epiceric.github.io/pony-tutorial/getting-started.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/gotchas.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/object-capabilities.html</loc>
+    <lastmod>2019-02-24T00:35:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/packages.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/pattern-matching.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/testing.html</loc>
+    <lastmod>2019-09-09T20:59:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/where-next.html</loc>
+    <lastmod>2019-03-25T11:44:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/packages/package-system.html</loc>
+    <lastmod>2020-04-22T10:00:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/partial-application.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/passing-and-sharing.html</loc>
+    <lastmod>2019-04-09T15:54:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/platform-dependent-code.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/</loc>
+    <lastmod>2019-10-21T08:17:57-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://epiceric.github.io/pony-tutorial/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://epiceric.github.io/pony-tutorial/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://epiceric.github.io/pony-tutorial/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/ponypath.html</loc>
+    <lastmod>2019-11-18T21:11:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/primitives.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/annotations.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/recovering-capabilities.html</loc>
+    <lastmod>2019-07-12T10:48:03+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/gotchas/recursion.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/reference-capabilities.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/guarantees.html</loc>
+    <lastmod>2019-03-04T20:59:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/reference-capabilities/capability-matrix.html</loc>
+    <lastmod>2019-03-04T20:59:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/gotchas/scheduling.html</loc>
+    <lastmod>2019-03-05T05:18:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/serialisation.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/packages/standard-library.html</loc>
+    <lastmod>2019-03-05T05:18:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/structs.html</loc>
+    <lastmod>2020-04-22T21:57:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/sugar.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/symbol-lookup-cheatsheet.html</loc>
+    <lastmod>2019-05-31T11:31:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/tags.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://epiceric.github.io/pony-tutorial/fr/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://epiceric.github.io/pony-tutorial/pt-br/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://epiceric.github.io/pony-tutorial/tags.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/testing/ponytest.html</loc>
+    <lastmod>2019-03-05T05:18:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/at-a-glance.html</loc>
+    <lastmod>2019-02-11T15:33:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/traits-and-interfaces.html</loc>
+    <lastmod>2019-10-06T22:40:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/object-capabilities/trust-boundary.html</loc>
+    <lastmod>2019-02-24T00:35:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/type-aliases.html</loc>
+    <lastmod>2019-02-11T14:10:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/types/type-expressions.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/packages/use-statement.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/expressions/variables.html</loc>
+    <lastmod>2019-02-11T20:06:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/getting-started/what-you-need.html</loc>
+    <lastmod>2019-12-30T19:09:50-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://epiceric.github.io/pony-tutorial/pt-br/getting-started/what-you-need.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://epiceric.github.io/pony-tutorial/getting-started/what-you-need.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://epiceric.github.io/pony-tutorial/appendices/whitespace.html</loc>
+    <lastmod>2019-01-05T12:37:42-05:00</lastmod>
+  </url>
+  
+</urlset>
